@@ -1,23 +1,23 @@
 
-# Prezentacije i rasprava  
+# Презентације и расправа  
 
-Vrijeme je da predstavite svoja rješenja!  
+Време је да представите своја решења!  
 
-Pažljivo prati prezentacije drugih grupa da možeš sudjelovati u raspravi.  
+Пажљиво прати презентације других група да би могао да учествујеш у расправи.  
 
-## Vrednovanje
+## Вредновање
 
-Vaš se rad ocjenjuje na temelju dva elementa:
+Ваш рад се оцењује на основу два елемента:
 
-**Samostalni zadatak** -- točnost i razumijevanje odgovora u testu.
+**Самостални задатак** — тачност и разумевање одговора у тесту.
 
-**Grupni rad** -- doprinos radu tima, obrazlaganje izbora i sudjelovanje u
-raspravi.
+**Групни рад** — допринос раду тима, образлагање избора и учешће у
+расправи.
 
-| Ocjena           | bodovi |
+| Оцена            | поени  |
 |------------------|--------|
-| Odličan (5)      | 18-20  |
-| Vrlo dobar (4)   | 15-17  |
-| Dobar (3)        | 12-14  |
-| Dovoljan (2)     | 10-12  |
-| Nedovoljan (1)   | 0-9    |
+| Одличан (5)      | 18-20  |
+| Врло добар (4)   | 15-17  |
+| Добар (3)        | 12-14  |
+| Довољан (2)      | 10-12  |
+| Недовољан (1)    | 0-9    |

@@ -1,76 +1,76 @@
-# Uvod
+# Увод
 
-Sada radite u istim grupama od 3 do 4 učenika u kojima ste izrađivali
-mentalne mape.
+Сада радите у истим групама од 3 до 4 ученика у којима сте израђивали
+менталне мапе.
 
-**Svaka grupa dobiva određeni scenarij i budžet:**
+**Свака група добија одређени сценарио и буџет:**
 
--   Prijenosno računalo za školu -- do 700 €
+-   Преносни рачунар за школу — до 700 €
 
--   Prijenosno računalo za igranje igrica -- do 3000 €
+-   Преносни рачунар за играње игрица — до 3000 €
 
--   Prijenosno računalo za osnovni uredski rad -- do 1000 €
+-   Преносни рачунар за основни канцеларијски рад — до 1000 €
 
--   Prijenosno računalo za uređivanje videa -- do 2500 €
+-   Преносни рачунар за уређивање видеа — до 2500 €
 
--   Prijenosno računalo za programiranje — do 2500 €
+-   Преносни рачунар за програмирање — до 2500 €
 
-## Uloge u timu
+## Улоге у тиму
 
--   **Istraživač**: pronalazi potrebne informacije pomoću zajedničke umne
-    mape i pretražuje relevantne online izvore.
+-   **Истраживач**: проналази потребне информације помоћу заједничке менталне
+    мапе и претражује релевантне онлајн изворе.
 
--   **Zapisničar**: bilježi odgovore grupe i provjerava jesu li u skladu sa
-    zadanim specifikacijama.
+-   **Записничар**: бележи одговоре групе и проверава да ли су у складу са
+    задацима спецификације.
 
--   **Tehničar**: pronalazi odabrani laptop u online trgovini i provjerava
-    odgovara li zadanim zahtjevima.
+-   **Техничар**: проналази одабрани лаптоп у онлајн продавници и проверава
+    да ли одговара задацима захтевима.
 
--   **Prezenter**: priprema kratku prezentaciju u kojoj prikazuje
-    specifikacije odabranog računala i obrazlaže izbor grupe.
+-   **Презентер**: припрема кратку презентацију у којој приказује
+    спецификације одабраног рачунара и образлаже избор групе.
 
-Ako su u grupi tri člana, uloge zapisničara i prezentera se spajaju.
+Ако су у групи три члана, улоге записничара и презентера се спајају.
 
 ```{infonote} 
-**Napomena**
+**Напомена**
 
-Iako je svakom članu grupe dodijeljena posebna uloga, svi pomažete jedni
-drugima u svim dijelovima zadatka. Tvoja je odgovornost da dio posla
-koji pripada tvojoj ulozi bude odrađen kvalitetno i na vrijeme, ali
-istovremeno surađuješ i doprinosiš zajedničkom rješenju grupe.
+Иако је сваком члану групе додељена посебна улога, сви помажете једни
+другима у свим деловима задатка. Твоја је одговорност да део посла
+који припада твојој улози буде урађен квалитетно и на време, али
+истовремено сарађујеш и доприносиш заједничком решењу групе.
 ```
 
 
 ```{suggestionnote} 
-**PRAVILA USPJEŠNE SURADNJE**
+**ПРАВИЛА УСПЕШНЕ САРАДЊЕ**
 
--   Svi smo jednaki i poštujemo jedni druge.
+-   Сви смо једнаки и поштујемо једни друге.
 
--   Održavamo dobru atmosferu čak i kada razmišljamo različito.
+-   Одржавамо добру атмосферу чак и када размишљамо различито.
 
--   Svi smo odgovorni za rad grupe.
+-   Сви смо одговорни за рад групе.
 
--   Pomažemo svima da doprinesu radu grupe.
+-   Помаžемо свима да допринесу раду групе.
 
--   Trudimo se uključiti svakog člana grupe u donošenje odluka.
+-   Трудимо се да укључимо сваког члана групе у доношење одлука.
 
--   Razmatramo različite ideje kako bismo odabrali najbolje rješenje.
+-   Разматрамо различите идеје како бисмо одабрали најбоље решење.
 
--   Razrađujemo ideje, raspravljamo o njima i smišljamo rješenja.
+-   Разрађујемо идеје, расправљамо о њима и смишљамо решења.
 
--   Pametno koristimo vrijeme da bismo obavili zadatak.
+-   Паметно користимо време да бисмо обавили задатак.
 
--   Pratimo svoj napredak i razmišljamo o sljedećem koraku.
+-   Пратимо свој напредак и размишљамо о следећем кораку.
 ```
 
-## Vrednovanje
+## Вредновање
 
-Zadatak će se vrednovati rubrikom:
+Задатак ће се вредновати рубриком:
 
-  | Kategorija                                | Opis                                                                                                                                                                                                                                   | Bodovi |
+  | Категорија                                | Опис                                                                                                                                                                                                                                   | Поени |
 |--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| Tehničke specifikacije                     | Računalo odgovara zadanim zahtjevima scenarija: procesor, RAM, tip i kapacitet memorije, grafička kartica, zaslon i ostalo. Specifikacije su realne i unutar budžeta.                           | 0–2    |
-| Pronalazak odgovarajućeg modela            | Grupa je uspješno pronašla konkretan model laptopa u internetskoj trgovini koji odgovara dogovorenim specifikacijama i nudi najbolju vrijednost za novac.                                        | 0–2    |
-| Suradnja u grupi                           | Svi članovi aktivno sudjeluju, poštuju pravila uspješne suradnje, pomažu jedni drugima i odgovorno izvršavaju dodijeljene uloge.                                                                 | 0–2    |
-| Kvaliteta prezentacije (slajd i izlaganje) | Slajd je pregledan i informativan, sadrži sve tražene informacije i vizualne elemente. Izlaganje je jasno i dovoljno glasno te traje 3–4 minute.                                                | 0–2    |
-| Obrazloženje izbora i argumentacija        | Grupa jasno argumentira zašto su odabrali te specifikacije i taj laptop te kako on zadovoljava potrebe korisnika iz scenarija.                                                                  | 0–2    |
+| Техничке спецификације                     | Рачунар одговара задацима сценарија: процесор, RAM, тип и капацитет меморије, графичка картица, екран и остало. Спецификације су реалне и у оквиру буџета.                           | 0–2    |
+| Проналазак одговарајућег модела            | Група је успешно пронашла конкретан модел лаптопа у интернет продавници који одговара договореним спецификацијама и нуди најбољу вредност за новац.                                        | 0–2    |
+| Сарадња у групи                           | Сви чланови активно учествују, поштују правила успешне сарадње, помажу једни другима и одговорно извршавају додељене улоге.                                                                 | 0–2    |
+| Квалитет презентације (слајд и излагање) | Слајд је прегледан и информативан, садржи све тражене информације и визуелне елементе. Излагање је јасно и довољно гласно и траје 3–4 минута.                                                | 0–2    |
+| Образложење избора и аргументација        | Група јасно аргументује зашто су одабрали те спецификације и тај лаптоп и како он задовољава потребе корисника из сценарија.                                                                  | 0–2    |

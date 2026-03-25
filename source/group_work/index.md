@@ -1,7 +1,7 @@
 ---
 status: exclude
 ---
-# Grupni rad
+# Групни рад
 
 ```{toctree}
 :maxdepth: 2
