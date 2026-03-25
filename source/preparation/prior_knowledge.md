@@ -1,23 +1,23 @@
-﻿# Potrebno predznanje
+# Потребно предзнање
 
-**Prije ove lekcije već si naučio/naučila:** 
+**Пре ове лекције већ си научио/научила:** 
 
--   imenovati i grupirati osnovne dijelove računala prema njihovoj
-    namjeni,
+-   именовати и груписати основне делове рачунара према њиховој
+    намени,
 
--   prepoznati različite ulazne i izlazne jedinice te vrste medija za
-    pohranu podataka,
+-   препознати различите улазне и излазне јединице и врсте медија за
+    чување података,
 
--   navesti funkcionalne dijelove računala i opisati osnovno načelo
-    njegova rada,
+-   навести функционалне делове рачунара и описати основни принцип
+    његовог рада,
 
--   razlikovati sklopovlje i programsku opremu,
+-   разликовати хардвер и софтвер,
 
--   razlikovati sistemski i korisnički softver te navesti primjere
-    programa.
+-   разликовати системски и кориснички софтвер и навести примере
+    програма.
 
-Ovi su pojmovi postupno obrađeni na prethodnim satima i sada ih za
-domaću zadaću trebaš organizirati u mentalnu mapu. Mentalna mapa će ti
-na idućem satu služiti kao oslonac za samostalne i grupne zadatke.
+Ови појмови су постепено обрађени на претходним часовима и сада их за
+домаћи задатак треба да организујеш у менталну мапу. Ментална мапа ће ти
+на наредном часу служити као ослонац за самосталне и групне задатке.
 
-U sljedećoj aktivnosti pronaći ćeš upute za izradu mentalne mape.
+У наредној активности наћи ћеш упутство за израду менталне мапе.

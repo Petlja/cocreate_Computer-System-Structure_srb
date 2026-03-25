@@ -1,37 +1,37 @@
-# Uvod
+# Увод
 
-Dragi učenici,
+Драги ученици,
 
-kao domaću zadaću izrađivali ste mentalnu mapu ključnih pojmova.
+као домаћи задатак израђивали сте менталну мапу кључних појмова.
 
-Pogledajmo zajedno izrađene mentalne mape!
+Погледајмо заједно израђене менталне мапе!
 
-Danas ćete raditi na zadacima u kojima primjenjujete znanje o računalnim
-komponentama.
+Данас ћете радити на задацима у којима примењујете знање о рачунарским
+компонентама.
 
-Prvo ćete samostalno analizirati nekoliko konfiguracija računala, a
-zatim u grupama osmisliti konfiguraciju prijenosnog računala za određenu
-namjenu.
+Прво ћете самостално анализирати неколико конфигурација рачунара, а
+затим у групама осмислити конфигурацију преносног рачунара за одређену
+намену.
 
-Važno je da pratite upute, surađujete u timu i obrazložite svoje odluke.
+Важно је да пратите упутства, сарађујете у тиму и образложите своје одлуке.
 
-Vaš rad ocjenjuje se kroz samostalni zadatak (10 bodova) i grupni
-zadatak (10 bodova).
+Ваш рад се оцењује кроз самостални задатак (10 поена) и групни
+задатак (10 поена).
 
-| Ocjena           | bodovi |
+| Оцена            | поени  |
 |------------------|--------|
-| Odličan (5)      | 18-20  |
-| Vrlo dobar (4)   | 15-17  |
-| Dobar (3)        | 12-14  |
-| Dovoljan (2)     | 10-12  |
-| Nedovoljan (1)   | 0-9    |
+| Одличан (5)      | 18-20  |
+| Врло добар (4)   | 15-17  |
+| Добар (3)        | 12-14  |
+| Довољан (2)      | 10-12  |
+| Недовољан (1)    | 0-9    |
 
 
-U idućoj aktivnosti samostalno rješavaš zadatke na računalu.
+У наредној активности самостално решаваш задатке на рачунару.
 
-Tvoj je zadatak analizirati četiri različite konfiguracije računala i, uz pomoć mentalne mape tvoje grupe, odgovoriti na pitanja. Pazi, može biti jedan ili više točnih odgovora.
+Твој је задатак да анализираш четири различите конфигурације рачунара и, уз помоћ менталне мапе твоје групе, одговориш на питања. Пази, може бити један или више тачних одговора.
 
-Predviđeno vrijeme: **15 min**    
+Предвиђено време: **15 мин**    
 
-Nakon predaje dobit ćeš automatsku povratnu informaciju o uspješnosti te ćemo zajedno prokomentirati odgovore.
+Након предаје добићеш аутоматску повратну информацију о успешности и заједно ћемо прокоментарисати одговоре.
 

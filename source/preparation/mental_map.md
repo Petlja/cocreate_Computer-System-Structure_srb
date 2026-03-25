@@ -1,31 +1,31 @@
-# Mentalna mapa
+# Ментална мапа
 
-**Upute za izradu mentalne mape**
+**Упутство за израду менталне мапе**
 
-1.  Podijelite se u grupe od 3 do 4 člana prema vlastitom izboru.
+1.  Поделите се у групе од 3 до 4 члана по сопственом избору.
 
-2.  Otvorite [Miro](https://www.miro.com) i zajedno započnite izradu mentalne mape:
+2.  Отворите [Miro](https://www.miro.com) и заједно започните израду менталне мапе:
 
-    a.  Svi članovi grupe se registriraju na Miro platformu koristeći
-        školski mail.
+    а.  Сви чланови групе се региструју на Miro платформу користећи
+        школски мејл.
 
-    b.  Jedan član grupe stvara mapu i poziva ostale članove grupe kako
-        bi svi mogli uređivati mapu.
+    б.  Један члан групе ствара мапу и позива остале чланове групе како
+        би сви могли да уређују мапу.
 
-3.  Pogledajte predložak mentalne mape objavljen na Petlji i, na temelju
-    prethodno obrađenih lekcija, izradite svoju grupnu mapu. Na mapi
-    trebaju biti prikazani svi spomenuti uređaji i njihove podjele, pri
-    čemu je važno primijeniti znanje koje ste ranije usvojili.
+3.  Погледајте шаблон менталне мапе објављен на Петљи и, на основу
+    претходно обрађених лекција, израдите своју групну мапу. На мапи
+    треба да буду приказани сви поменути уређаји и њихове поделе, при
+    чему је важно применити знање које сте раније усвојили.
 
-4.  Po želji dodajte kratke bilješke (npr. što koja komponenta radi i
-    koje su joj bitne karakteristike) i slike ili ikone.
+4.  По жељи додајте кратке белешке (нпр. шта која компонента ради и
+    које су јој битне карактеристике) и слике или иконе.
 
-5.  Ako ti je u učenju potrebna dodatna podrška, možeš prilagoditi
-    izgled mape: koristiti veći font, jasne boje ili umetnuti ikone i
-    vizualne oznake.
+5.  Ако ти је у учењу потребна додатна подршка, можеш прилагодити
+    изглед мапе: користити већи фонт, јасне боје или уметнути иконе и
+    визуелне ознаке.
 
-6.  Kada završite, izvezite mapu u obliku slike i predajte je putem
-    Petlje u sljedećoj aktivnosti.
+6.  Када завршите, извозите мапу у облику слике и предајте је путем
+    Петље у наредној активности.
 
 ```{raw} html
 <div style="text-align: center">

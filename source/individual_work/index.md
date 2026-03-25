@@ -1,7 +1,7 @@
 ---
 status: exclude
 ---
-# Samostalni rad
+# Самостални рад
 
 ```{toctree}
 :maxdepth: 2

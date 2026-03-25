@@ -1,31 +1,31 @@
-# Refleksija
+# Рефлексија
 
-## (5 minuta)
+## (5 минута)
 
-Na kraju sata odvoji nekoliko minuta da promisliš o vlastitom radu i
-radu grupe.
+На крају часа одвој неколико минута да размислиш о свом раду и
+раду групе.
 
-Ispuni kratki upitnik za refleksiju i sudjeluj u zajedničkoj raspravi.
+Попуни кратак упитник за рефлексију и учествуј у заједничкој расправи.
 
-## Upitnik
+## Упитник
 
-Ocijenite koliko grupa poštuje navedena pravila na skali od 1 do 4.
+Оцени колико група поштује наведена правила на скали од 1 до 4.
 
 ```{technicalnote} 
-Skala ocjenjivanja:
+Скала оцењивања:
 
-1 -- Uopće nije poštovano
+1 — Уопште није поштовано
 
-2 -- Većinom nije poštovano
+2 — Већином није поштовано
 
-3 -- Većinom poštovano
+3 — Већином поштовано
 
-4 -- U potpunosti poštovano
+4 — У потпуности поштовано
 ```
 
 ```{infonote} 
-Ako je ocjena niža od 3 trebate probati poboljšati taj dio
-funkcioniranja grupe.
+Ако је оцена нижа од 3, треба да покушате да побољшате тај део
+функционисања групе.
 ```
 
 ```{raw} html
