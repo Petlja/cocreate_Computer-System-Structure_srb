@@ -1,8 +1,8 @@
 ﻿---
 status: exclude
-alias: cocreate_Computer-System-Structure_cro
-lang: en
-short_description: Građa računala – dijelovi računala i programska oprema
+alias: cocreate_Computer-System-Structure_srb
+lang: sr
+short_description: Грађа рачунара – делови рачунара и софтвер
 long_description: >
     <p>У овој лекцији ћеш научити да препознаш и разумеш основне делове рачунара. Кроз практичне задатке израђиваћеш менталне мапе, анализирати различите рачунарске конфигурације и у тиму одабрати оптимални модел преносног рачунара за одређене потребе. Развијаћеш вештине тимске сарадње, аргументације избора и израду презентација на занимљив и креативан начин.</p>
     <p>
