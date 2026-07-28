@@ -7,4 +7,5 @@ status: exclude
 :maxdepth: 2
 
 intro
+word_quiz
 ```
