@@ -18,7 +18,7 @@ will_learn:
     - Учешће у тимском решавању проблемских задатака.
 
 needed: 
-    - A personal computer
+    - Персонални рачунар
 useful: []
 ---
 

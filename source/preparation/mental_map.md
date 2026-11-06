@@ -27,12 +27,4 @@
 6.  Када завршите, извозите мапу у облику слике и предајте је путем
     Петље у наредној активности.
 
-```{raw} html
-<div style="text-align: center">
-    <iframe width="768" height="432"
-    src="https://miro.com/welcomeonboard/L3VjQ0Y0UlUzZmpRSGJUY01vakhiL0RHVjlNbHgxMTYydkdadGZXUWpRc1lYaThTOEtSd1JRSkNLYTVIb0ZqdVdEVHV1WU5YYVQ1alN1NW1DTFFka1d3Z1M1WkpmZEpzTkJoS2dCeXllL05DUWFaYzZSb0UyN3ZXZnlrTStrQSthWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=653974568893"
-    frameborder="0" scrolling="no" allow="fullscreen; clipboard-read;
-    clipboard-write" allowfullscreen>
-    </iframe>
-</div>
-```
+![Ментална мапа](images/mentalna_mapa.png)
